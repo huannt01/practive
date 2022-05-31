@@ -2,6 +2,7 @@
 @section('content')
     <h2>Hello World</h2>
 
+
     <link rel="stylesheet" type="text/css" href="{{ asset('frontend/styles/product_styles.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('frontend/styles/product_responsive.css') }}">
 
